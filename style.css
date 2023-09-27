@@ -16,6 +16,10 @@ h3 {
   text-align: center;
 }
 
+nav a{
+  margin: 2%;
+}
+
 article {
   padding: 50px 0;
 }
